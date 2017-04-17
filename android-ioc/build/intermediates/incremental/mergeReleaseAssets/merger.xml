@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/home/artivatic/Downloads/MyApplication/socilize/android-ioc/src/main/assets"/><source path="/home/artivatic/Downloads/MyApplication/socilize/android-ioc/build/generated/assets/shaders/release"/></dataSet><dataSet config="release"><source path="/home/artivatic/Downloads/MyApplication/socilize/android-ioc/src/release/assets"/></dataSet></merger>

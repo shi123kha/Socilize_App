@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/home/artivatic/Downloads/MyApplication/socilize/facebook-android-sdk/build/intermediates/res/merged/release/drawable-xhdpi-v4/com_facebook_loginbutton_blue_pressed.png",
+        "source": "/home/artivatic/Downloads/MyApplication/socilize/facebook-android-sdk/res/drawable-xhdpi/com_facebook_loginbutton_blue_pressed.png"
+    },
+    {
+        "merged": "/home/artivatic/Downloads/MyApplication/socilize/facebook-android-sdk/build/intermediates/res/merged/release/drawable-xhdpi-v4/com_facebook_button_grey_pressed.9.png",
+        "source": "/home/artivatic/Downloads/MyApplication/socilize/facebook-android-sdk/res/drawable-xhdpi/com_facebook_button_grey_pressed.9.png"
+    },
+    {
+        "merged": "/home/artivatic/Downloads/MyApplication/socilize/facebook-android-sdk/build/intermediates/res/merged/release/drawable-xhdpi-v4/com_facebook_logo.png",
+        "source": "/home/artivatic/Downloads/MyApplication/socilize/facebook-android-sdk/res/drawable-xhdpi/com_facebook_logo.png"
+    },
+    {
+        "merged": "/home/artivatic/Downloads/MyApplication/socilize/facebook-android-sdk/build/intermediates/res/merged/release/drawable-xhdpi-v4/com_facebook_close.png",
+        "source": "/home/artivatic/Downloads/MyApplication/socilize/facebook-android-sdk/res/drawable-xhdpi/com_facebook_close.png"
+    },
+    {
+        "merged": "/home/artivatic/Downloads/MyApplication/socilize/facebook-android-sdk/build/intermediates/res/merged/release/drawable-xhdpi-v4/com_facebook_button_grey_focused.9.png",
+        "source": "/home/artivatic/Downloads/MyApplication/socilize/facebook-android-sdk/res/drawable-xhdpi/com_facebook_button_grey_focused.9.png"
+    },
+    {
+        "merged": "/home/artivatic/Downloads/MyApplication/socilize/facebook-android-sdk/build/intermediates/res/merged/release/drawable-xhdpi-v4/com_facebook_loginbutton_blue_focused.png",
+        "source": "/home/artivatic/Downloads/MyApplication/socilize/facebook-android-sdk/res/drawable-xhdpi/com_facebook_loginbutton_blue_focused.png"
+    },
+    {
+        "merged": "/home/artivatic/Downloads/MyApplication/socilize/facebook-android-sdk/build/intermediates/res/merged/release/drawable-xhdpi-v4/com_facebook_loginbutton_blue_normal.png",
+        "source": "/home/artivatic/Downloads/MyApplication/socilize/facebook-android-sdk/res/drawable-xhdpi/com_facebook_loginbutton_blue_normal.png"
+    },
+    {
+        "merged": "/home/artivatic/Downloads/MyApplication/socilize/facebook-android-sdk/build/intermediates/res/merged/release/drawable-xhdpi-v4/com_facebook_button_grey_normal.9.png",
+        "source": "/home/artivatic/Downloads/MyApplication/socilize/facebook-android-sdk/res/drawable-xhdpi/com_facebook_button_grey_normal.9.png"
+    }
+]

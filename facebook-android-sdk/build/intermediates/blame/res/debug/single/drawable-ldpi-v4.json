@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/artivatic/Downloads/MyApplication/socilize/facebook-android-sdk/build/intermediates/res/merged/debug/drawable-ldpi-v4/com_facebook_icon.png",
+        "source": "/home/artivatic/Downloads/MyApplication/socilize/facebook-android-sdk/res/drawable-ldpi/com_facebook_icon.png"
+    },
+    {
+        "merged": "/home/artivatic/Downloads/MyApplication/socilize/facebook-android-sdk/build/intermediates/res/merged/debug/drawable-ldpi-v4/com_facebook_close.png",
+        "source": "/home/artivatic/Downloads/MyApplication/socilize/facebook-android-sdk/res/drawable-ldpi/com_facebook_close.png"
+    }
+]
